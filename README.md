@@ -93,21 +93,22 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ## 4. Key Questions for Stakeholders Prior to Project Advancement
 
-### Performance Standards
-- What’s an acceptable defect rate?
-- Is 82.37% compliance good enough?
+### Performance Standards Definition
+- What’s an acceptable defect rate by category?
+- What compliance rate is considered satisfactory?
+- Are there industry benchmarks we should target for average delivery times?
 
-### Supplier Strategy
-- Should all suppliers be held to the same standard?
-- What are grounds for termination?
+### Supplier Relationship Strategy
+- Should all suppliers be weighted equally, or employ different performance standards?
+- What constitutes grounds for supplier termination versus performance improvement plans?
 
-### Category Strategy
-- Should negotiation differ by category?
-- How do we balance volume vs. performance?
+### Category Management Approach
+- Should negotiation differ by category and how?
+- How do we balance volume vs. performance standards across categories?
 
 ### Investment
-- Budget for ML deployment?
-- Focus: short-term savings or long-term partnerships?
+- Should we prioritize short-term cost savings or long-term supplier relationship improvements?
+- What budget is available for process improvement? Potential to implement ML model?
 
 ---
 
