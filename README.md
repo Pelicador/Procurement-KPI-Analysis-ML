@@ -116,11 +116,15 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ### Analytical Framework Assumptions
 **Pricing Methodology**: We assumed Negotiated_Price reflects final contract terms rather than initial quotations. 
+
 **Delivery Performance Interpretation**: Delivery_Date represents actual final delivery rather than scheduled delivery
+
 **Compliance Scoring Consistency**: We assumed compliance scoring methodology remained consistent across all 777 records and suppliers.
 
 ### External Factors Beyond Our Model
+
 **Market Condition Impact**: Our analysis period (2022-2023) coincided with significant inflation and supply chain disruptions.
+
 **Category-Specific Limitations**: The high standard deviation in item category pricing may limit the utility of our inflation modeling. Additional data and stakeholder input on specific item price histories would enhance accuracy.
 
 ---
