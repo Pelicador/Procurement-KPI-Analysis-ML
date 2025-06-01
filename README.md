@@ -66,27 +66,30 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ### Initial Data Investigations
 - **Missing Data Patterns**:
-  - 87 missing Delivery_Date values: Indicated pending/cancelled orders requiring special handling
-  - 136 missing Defective_Units records: Suggested unresolved quality cases, treated as zero defects for initial analysis
-  - 1 missing Negotiated_Price: Single outlier requiring imputation using Unit_Price
-- **Missing Data**: Delivery dates (87), defects (136)
-- **Volume Risk**: Delta_Logistics had highest volume despite worst performance
+  - **87 missing Delivery_Date values**: Indicated pending/cancelled orders requiring special handling
+  - **136 missing Defective_Units records**: Suggested unresolved quality cases, treated as zero defects for initial analysis
+  - **1 missing Negotiated_Price**: Single outlier requiring imputation using Unit_Price
+- **Data Integrety Validation**:
+  - **No negative values** in quantity, prices, or defects—confirming data quality
+  - **No instances** where negotiated_price exceeded unit_price—validating negotiation effectiveness
+  - **Zero duplicate rows**—ensuring analytical accuracy
 
-### Data Architecture
-- **Core Fields**: PO_ID, Supplier, Category, Dates, Status
-- **Financials**: Unit_Price, Negotiated_Price
-- **Quality**: Defective_Units, Compliance
-
-### Feature Engineering
-- **Lead Time**: Avg. 10.80 days
-- **Total Value**: $49.3M vs $45.4M (negotiated)
-- **Defect Rate**: Avg. 5.78%
-- **Compliance**: 82.37%
-- **Binary Flags**: Delivery occurred
+### Feature Engineering: Creating Business Intelligence
+**Time-Based Analytics**:
+- **Lead_time_days**: Calculated delivery performance averaging
+- **Temporal Features**: order_year, order_month, order_quarter enabling trend analysis
+**Financial Intelligence**:
+- **Total Value Calculations**: total_value_unit and total_value_negotiated 
+- **Savings Metrics**: total_savings, savings_percentage 
+- **Price Volatility**: Relative price standard deviation revealing inflation impact
+**Performance Indicators**:
+- **Defect_rate_percentage**: Quality performance averaging
+- **Compliance_rate_percentage**: Policy adherence 
+- **Delivery_occurred flag**: Binary outcome for predictive modeling
 
 ---
 
-## 4. Key Stakeholder Questions
+## 4. Key Questions for Stakeholders Prior to Project Advancement
 
 ### Performance Standards
 - What’s an acceptable defect rate?
