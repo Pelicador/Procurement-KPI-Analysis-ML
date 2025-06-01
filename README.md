@@ -49,6 +49,21 @@ Our company and procurement organization began experiencing troubling patterns. 
 ### Dataset Overview
 Our analysis centered on a comprehensive dataset capturing real-world procurement complexity. This anonymized dataset of 777 purchase orders from 2022-2023 reflects genuine operational challenges: supplier delays, compliance gaps, and quality defects that plague modern supply chains.
 
+| Column Name        | Data Type   | Description                                                                 |
+|--------------------|-------------|-----------------------------------------------------------------------------|
+| PO_ID              | String / ID | Unique purchase order ID                                                   |
+| Supplier           | String      | Anonymized supplier name (e.g., Alpha_Inc)                                 |
+| Order_Date         | Date        | Date the order was placed                                                  |
+| Delivery_Date      | Date        | Date of delivery (missing for pending/cancelled orders)                    |
+| Item_Category      | String      | Item type (Electronics, Raw Materials, Packaging, etc.)                    |
+| Order_Status       | String      | Delivered, Pending, Cancelled, or Partially Delivered                      |
+| Quantity           | Integer     | Units ordered (includes large orders for bulk procurement)                |
+| Unit_Price         | Float       | Original price per unit                                                    |
+| Negotiated_Price   | Float       | Final price post-negotiation                                               |
+| Defective_Units    | Integer     | Defects reported post-delivery (missing for unresolved cases)              |
+| Compliance         | Boolean     | Adherence to procurement policies (Yes/No)                                 |
+
+
 ### Key Findings
 - **Compliance Ranges**: 60.82%–98.19%
 - **Missing Data**: Delivery dates (87), defects (136)
