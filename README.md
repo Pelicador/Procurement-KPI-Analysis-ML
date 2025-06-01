@@ -64,8 +64,11 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 | Compliance         | Boolean     | Adherence to procurement policies (Yes/No)                                 |
 
 
-### Key Findings
-- **Compliance Ranges**: 60.82%–98.19%
+### Initial Data Investigations
+- **Missing Data Patterns**:
+  - 87 missing Delivery_Date values: Indicated pending/cancelled orders requiring special handling
+  - 136 missing Defective_Units records: Suggested unresolved quality cases, treated as zero defects for initial analysis
+  - 1 missing Negotiated_Price: Single outlier requiring imputation using Unit_Price
 - **Missing Data**: Delivery dates (87), defects (136)
 - **Volume Risk**: Delta_Logistics had highest volume despite worst performance
 
