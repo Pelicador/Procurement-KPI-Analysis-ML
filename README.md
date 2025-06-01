@@ -78,10 +78,12 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 **Time-Based Analytics**:
 - **Lead_time_days**: Calculated delivery performance averaging
 - **Temporal Features**: order_year, order_month, order_quarter enabling trend analysis
+  
 **Financial Intelligence**:
 - **Total Value Calculations**: total_value_unit and total_value_negotiated 
 - **Savings Metrics**: total_savings, savings_percentage 
 - **Price Volatility**: Relative price standard deviation revealing inflation impact
+  
 **Performance Indicators**:
 - **Defect_rate_percentage**: Quality performance averaging
 - **Compliance_rate_percentage**: Policy adherence 
