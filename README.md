@@ -1,48 +1,46 @@
 # Procurement KPI Analysis Project Report
+#### A Data-Driven Journey to Procurement Excelence
 
 ## 1. Executive Summary
 
 ### The Challenge That Brought Us Here
-Our procurement organization faced mounting pressures in 2022–2023: rising costs, inconsistent supplier performance, and increasing quality complaints. With $49.3M in annual procurement spend across 777 purchase orders, we needed answers.
+Our procurement organization faced mounting pressures in 2022-2023: rising costs, inconsistent supplier performance, and increasing quality complaints from internal stakeholders. With $49.3M in annual procurement spend across 777 purchase orders, we needed answers to critical questions plaguing our operations.
 
 ### The Investigation: What We Discovered
-We reduced procurement spend from $49.3M to $45.4M (a $3.9M savings, 7.97%). But we uncovered performance disparities threatening operational stability.
+Through comprehensive analysis of our procurement data spanning 2022-2023, we uncovered a tale of two procurement worlds. While our negotiation efforts successfully reduced spending from $49.3M to $45.4M—achieving $3.9M in cost savings (7.97% average)—beneath this success story lurked concerning performance disparities that threatened our operational stability.
 
 ### The Transformation: Machine Learning Meets Procurement
-Developed predictive models with 88.7% accuracy in delivery forecasting. A shift from reactive to proactive risk management.
+Our advanced analytics initiative culminated in developing a comprehensive supplier rating system and predictive models achieving 88.7% accuracy in forecasting delivery outcomes. This breakthrough positions us to transform from reactive firefighting to proactive risk management, potentially saving an additional money annually while dramatically reducing operational disruptions.
 
 ### The Path Forward: Strategic Recommendations
-Immediate action on:
-- Supplier performance management
-- Quality control
-- Predictive analytics integration
+Our findings demand immediate action on supplier performance management, quality control enhancement, and technology deployment. The data tells a clear story: optimize high-performers, remediate underperformers, and leverage predictive analytics to prevent future challenges.
 
 ---
 
 ## 2. Project Background
 
 ### The Business Problem
-Increasing delivery delays, quality complaints, and cost pressures led leadership to question:
+our procurement organization began experiencing troubling patterns. Quality complaints increased quarter-over-quarter, delivery delays frustrated internal customers, and cost pressures mounted as market conditions deteriorated. Leadership demanded answers: 
 - Are we working with the right suppliers?
 - Can we predict/prevent these issues?
-- Where are our improvement opportunities?
+- Where are our biggest improvement opportunities?
 
 ### The Objective
-- **Primary Goal**: EDA on key KPIs (Cost Savings, Supplier Performance, Order Trends)
-- **Secondary Goal**: Engineer relevant features to uncover patterns
-- **Advanced Goal**: Develop a predictive delivery model
+- **Primary Goal**: Perform an in-depth Exploratory Data Analysis focusing on key procurement KPIs: Cost Savings, Supplier Performance (Delivery time, Defect Rates, Compliance), Item Category Trends, and Order Status insights.
+- **Secondary Goal**: Engineer relevant features and KPIs from raw operational data to uncover hidden patterns and relationships.
+- **Advanced Goal**: Develop a high-accuracy machine learning model to predict delivery occurrence and critically evaluate performance drivers.
 
 ### Stakeholders
-- **Procurement**: Supplier insights
-- **Finance**: Cost optimization
-- **Operations**: Delivery reliability
-- **Executives**: Strategic supplier guidance
+- **Procurement Managers**: Needed supplier performance insights and contract negotiation leverage
+- **Finance Team**: Required cost optimization opportunities and budget variance explanations
+- **Operations**: Demanded delivery reliability improvements and quality assurance
+- **Executive Leadership**: Sought strategic supplier relationship guidance and risk mitigation strategies
 
 ### Business Context
-- **Volume**: 777 POs, $49.3M
-- **Suppliers**: 5 key vendors
-- **Categories**: Electronics, MRO, Packaging, etc.
-- **Scope**: Global
+- **Volume**: 777 purchase orders representing $49.3M in original value
+- **Suppliers**: 5 primary suppliers with dramatically different performance profiles
+- **Categories**: Electronics, Raw Materials, MRO, Office Supplies, and Packaging
+- **Scope**: Global enterprise operations requiring coordinated supplier management
 
 ---
 
