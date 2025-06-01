@@ -20,7 +20,7 @@ Our findings demand immediate action on supplier performance management, quality
 ## 2. Project Background
 
 ### The Business Problem
-our procurement organization began experiencing troubling patterns. Quality complaints increased quarter-over-quarter, delivery delays frustrated internal customers, and cost pressures mounted as market conditions deteriorated. Leadership demanded answers: 
+Our company and procurement organization began experiencing troubling patterns. Quality complaints increased quarter-over-quarter, delivery delays frustrated internal customers, and cost pressures mounted as market conditions deteriorated. Leadership demanded answers: 
 - Are we working with the right suppliers?
 - Can we predict/prevent these issues?
 - Where are our biggest improvement opportunities?
@@ -47,7 +47,7 @@ our procurement organization began experiencing troubling patterns. Quality comp
 ## 3. Data Structure and Initial Checks
 
 ### Dataset Overview
-777 purchase orders from 2022–2023 including real-world procurement data.
+Our analysis centered on a comprehensive dataset capturing real-world procurement complexity. This anonymized dataset of 777 purchase orders from 2022-2023 reflects genuine operational challenges: supplier delays, compliance gaps, and quality defects that plague modern supply chains.
 
 ### Key Findings
 - **Compliance Ranges**: 60.82%–98.19%
