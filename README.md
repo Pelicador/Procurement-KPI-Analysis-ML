@@ -135,12 +135,18 @@ Our procurement team demonstrated remarkable negotiation skills, reducing total 
 
 Category-specific success patterns shows that negotiated procurement efforts led to savings across all categories. The most significant reductions occurred in MRO (from $11.0M to $10.1M) and Office Supplies (from $10.9M to $10.0M), highlighting effective cost control in high-spend areas.
 
+![Procurement Category](/docs/Procurement_Spend_Category.png)
+
+Order fulfillment performance are similar across all five suppliers. Alpha_Inc has the highest delivery rate at 75.89%, while most suppliers (Delta_Logistics, Epsilon_Group, Beta_Supplies, and Gamma_Co) have delivered around 70-72% of their orders. Cancellation rates are relatively low across all suppliers (under 10%), with pending orders ranging from about 10-12% for most suppliers.
+
 ![Order Status](/docs/Order_Status_Supplier.png)
 
-Order fulfillment performance across five suppliers. Alpha_Inc has the highest delivery rate at 75.89%, while most suppliers (Delta_Logistics, Epsilon_Group, Beta_Supplies, and Gamma_Co) have delivered around 70-72% of their orders. Cancellation rates are relatively low across all suppliers (under 10%), with pending orders ranging from about 10-12% for most suppliers.
+Defective rate trending upward indicating potential capacity or reliability issues requiring investigation. The defective rate started around 4% in early 2022, fluctuated between 4-7% throughout most of the period, but then sharply increased to nearly 9% by January 2024, indicating a concerning deterioration in quality control.
 
-![Procurement Category](/docs/Procurement_Spend_Category.png)
-### Supplier Performance Summary
+![Defective Rate Time](/docs/Defective_Rate_Time.png)
+
+
+### Supplier Performance Analysis
 
 
 
