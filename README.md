@@ -131,6 +131,8 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value.
 
 ![Total Procurement Spend](/docs/Total_Prourement_Spend.png)
+
+With an average compliance rate of 82.37%, defective rate of 5.78% and the delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency. 
 ![Other KPI](/docs/Other_KPI_Cards.png)
 
 
