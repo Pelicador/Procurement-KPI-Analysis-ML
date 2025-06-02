@@ -49,15 +49,15 @@ Our company and procurement organization began experiencing troubling patterns. 
 ### Dataset Overview
 Our analysis centered on a comprehensive dataset capturing real-world procurement complexity. This anonymized dataset of 777 purchase orders from 2022-2023 reflects genuine operational challenges: supplier delays, compliance gaps, and quality defects that plague modern supply chains.
 
-| Column Name        | Data Type   | Description                                                                 |
-|--------------------|-------------|-----------------------------------------------------------------------------|
+| Column Name        | Data Type   | Description                                                                |
+|--------------------|-------------|----------------------------------------------------------------------------|
 | PO_ID              | String / ID | Unique purchase order ID                                                   |
 | Supplier           | String      | Anonymized supplier name (e.g., Alpha_Inc)                                 |
 | Order_Date         | Date        | Date the order was placed                                                  |
 | Delivery_Date      | Date        | Date of delivery (missing for pending/cancelled orders)                    |
 | Item_Category      | String      | Item type (Electronics, Raw Materials, Packaging, etc.)                    |
 | Order_Status       | String      | Delivered, Pending, Cancelled, or Partially Delivered                      |
-| Quantity           | Integer     | Units ordered (includes large orders for bulk procurement)                |
+| Quantity           | Integer     | Units ordered (includes large orders for bulk procurement)                 |
 | Unit_Price         | Float       | Original price per unit                                                    |
 | Negotiated_Price   | Float       | Final price post-negotiation                                               |
 | Defective_Units    | Integer     | Defects reported post-delivery (missing for unresolved cases)              |
@@ -127,7 +127,11 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ## 6. Insights: What the Data Tells Us
 
-### Cost Savings Highlights
+### Procurement Efficiency: The Cost Savings Success Story
+Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value.
+![Total Procurement Spend](/docs/Total_Proument_Spend.png)
+
+
 - **Total Savings**: $3.9M (7.97%)
 - **By Category**:
   - Electronics: 12.2% ($9.8M → $8.6M)
