@@ -262,6 +262,8 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 - Quarterly strategic sourcing optimization analyses
 - Annual supplier relationship strategic planning sessions
 
+![Strategic Roadmap](/docs/Strategic_Roadmap.png)
+
 ---
 
 ## Financial Impact Projections
