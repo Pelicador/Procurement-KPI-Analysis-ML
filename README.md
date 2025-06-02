@@ -157,6 +157,10 @@ Suppliers were assessed across five key performance metrics to determine their o
 4. **Quality Concerns - Beta_Supplies:** With 8.27% defective rate and 11.27-day lead times, Beta_Supplies requires immediate performance improvement planning despite handling 180,516 units annually.
 5. **The Underperformance Crisis - Delta_Logistics:** Despite handling our highest volume (190,552 units), Delta_Logistics delivers our worst performance: 60.82% compliance, 10.87% defective rate, and lowest average savings percentage. This supplier represents our greatest operational risk and strategic challenge.
 
+### Supplier Performance Ratings
+The five performance metrics were converted into standardized 1-5 ratings for each supplier across six categories: Compliance (based on compliance rate), Quality (based on defective percentage), Price Competitiveness (based on savings percentage), Delivery (based on lead time), and Price Volatility Control (based on price volatility percentage). These individual ratings were then averaged to create an overall Average Score, providing a comprehensive supplier performance ranking from 1 (poor) to 5 (excellent).
+
+![Supplier Ratings](/docs/Supplier_Ratings.png)
 
 ---
 
