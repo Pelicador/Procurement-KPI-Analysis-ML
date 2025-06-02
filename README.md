@@ -129,6 +129,7 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ### Procurement Efficiency: The Cost Savings Success Story
 Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value.
+
 ![Total Procurement Spend](/docs/Total_Proument_Spend.png)
 
 
