@@ -128,12 +128,9 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 ## 6. Insights: What the Data Tells Us
 
 ### Procurement Efficiency: The Cost Savings Success Story
-Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value.
+Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value. However, with an average compliance rate of 82.37%, defective rate of 5.78% and the delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
 
-![Total Procurement Spend](/docs/Total_Prourement_Spend.png)
-
-With an average compliance rate of 82.37%, defective rate of 5.78% and the delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
-
+![Total Procurement Spend](/docs/Total_Procurement.png)
 ![Other KPI](/docs/Other_KPI_Cards.png)
 
 
