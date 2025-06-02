@@ -162,6 +162,10 @@ The five performance metrics were converted into standardized 1-5 ratings for ea
 
 ![Supplier Ratings](/docs/Supplier_Ratings.png)
 
+1. Top Rated Suppliers (scoring 4 and above): recognized as top performers and receive preferential benefits such as favorable payment terms, exclusive business opportunities, or co-marketing support.
+2. Middle Rated Suppliers (between 3 and 4): subject to enhanced incoming inspection protocols and regular performance reviews to drive improvement.
+3. Low Rated Suppliers (below 3): receive a 30-60 day performance improvement ultimatum with specific targets that must be met to continue the partnership.
+
 ---
 
 ## 7. Machine Learning: Predicting Delivery Success
