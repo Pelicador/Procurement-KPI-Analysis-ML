@@ -127,7 +127,7 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ## 6. Insights: What the Data Tells Us
 
-### Procurement Efficiency: The Cost Savings Success Story
+### Procurement Key Performance Indicators
 Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value. However, with an average compliance rate of 82.37%, defective rate of 5.78% and delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
 
 ![Total Procurement Spend](/docs/Total_Procurement.png)
@@ -147,7 +147,15 @@ Defective rate trending upward indicating potential capacity or reliability issu
 
 
 ### Supplier Performance Analysis
+Suppliers were assessed across five key performance metrics to determine their overall effectiveness and reliability. The evaluation criteria included compliance rate (adherence to contract terms), average defective percentage (quality control), average savings percentage (cost efficiency), average lead time (delivery speed), and relative price volatility percentage (pricing stability).
 
+![Supplier Performance](/docs/Supplier_Performance.png)
+
+1. **Excellence Exemplified - Epsilon_Group:** This supplier represents procurement partnership at its finest: 98.19% compliance, 2.61% defective rate, 8.04% savings, and low relative price volatility. Their performance demonstrates what's achievable with proper supplier development.
+2. **Reliability Proven - Alpha_Inc:** With 93.62% compliance and industry-leading 1.89% defective rate, Alpha_Inc shows consistent excellence across all metrics while delivering 8.21% cost savings.
+3. **Steady Performance - Gamma_Co:** Representing the middle tier of our supplier portfolio, Gamma_Co delivers 86.01% compliance with a moderate 4.50% defective rate. While not achieving the excellence of our top performers, this supplier maintains acceptable 7.98% cost savings and reasonable 10.19-day lead time.
+4. **Quality Concerns - Beta_Supplies:** With 8.27% defective rate and 11.27-day lead times, Beta_Supplies requires immediate performance improvement planning despite handling 180,516 units annually.
+5. **The Underperformance Crisis - Delta_Logistics:** Despite handling our highest volume (190,552 units), Delta_Logistics delivers our worst performance: 60.82% compliance, 10.87% defective rate, and lowest average savings percentage. This supplier represents our greatest operational risk and strategic challenge.
 
 
 ---
