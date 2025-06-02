@@ -162,19 +162,23 @@ The five performance metrics were converted into standardized 1-5 ratings for ea
 
 ![Supplier Ratings](/docs/Supplier_Ratings.png)
 
-1. Top Rated Suppliers (scoring 4 and above): recognized as top performers and receive preferential benefits such as favorable payment terms, exclusive business opportunities, or co-marketing support.
-2. Middle Rated Suppliers (between 3 and 4): subject to enhanced incoming inspection protocols and regular performance reviews to drive improvement.
-3. Low Rated Suppliers (below 3): receive a 30-60 day performance improvement ultimatum with specific targets that must be met to continue the partnership.
+1. **Top Rated Suppliers** (scoring 4 and above): recognized as top performers and receive preferential benefits such as favorable payment terms, exclusive business opportunities, or co-marketing support.
+2. **Middle Rated Suppliers** (between 3 and 4): subject to enhanced incoming inspection protocols and regular performance reviews to drive improvement.
+3. **Low Rated Suppliers** (below 3): receive a 30-60 day performance improvement ultimatum with specific targets that must be met to continue the partnership.
 
 ---
 
 ## 7. Machine Learning: Predicting Delivery Success
 
-### Model Goal
-Predict whether an order will be delivered based on:
-- Supplier, Category, Quantity, Prices, Compliance, Order Date
+### The Predictive Analytics Challenge
+Traditional procurement operates reactively—addressing delivery failures, quality issues, and compliance gaps after they occur. Our machine learning initiative aimed to transform this paradigm by predicting delivery outcomes before or when purchase orders are placed.
 
-### Algorithms Tested
+### Model Development Journey
+**The Prediction Goal:** Determine whether orders will be successfully delivered based on supplier characteristics, item categories, quantities, pricing, and compliance history.
+
+**Feature Selection Strategy:** We identified eight critical predictive features: supplier identity, item_category, quantity, unit_price, negotiated_price, order_year, order_month, and compliance status. These features represent the information available at order placement, making predictions actionable.
+
+**Algorithm Performance Battle:** We deployed eight different machine learning algorithms in head-to-head competition:
 
 | Algorithm             | Accuracy |
 |------------------------|----------|
@@ -187,31 +191,46 @@ Predict whether an order will be delivered based on:
 | Logistic Regression   | 70.14%   |
 | Naive Bayes           | 67.54%   |
 
-### Business Impact
-- Preemptive risk detection before order placement
-- Enables better supplier negotiations and internal communication
+**The Winner - Gradient Boosting:** 88.70% Accuracy This ensemble method emerged as our champion, combining multiple weak learners to achieve superior prediction accuracy. Its ability to handle complex supplier-category interactions made it ideal for our procurement complexity.
+
+### Predictive Model Business Impact
+**Operational Transformation Potential:** With 88.70% accuracy, our Gradient Boosting model can identify high-risk purchase orders before approval, enabling proactive intervention rather than reactive damage control.
+
+**Risk Mitigation Capability:** The model's ability to predict delivery failure allows procurement managers to:
+- Require additional supplier commitments for high-risk orders
+- Implement enhanced monitoring for predicted problem orders
+- Adjust delivery expectations for internal customers
+- Develop contingency sourcing for critical high-risk purchases
 
 ---
 
-## 8. Recommendations: A Strategic Roadmap
+## 8. Recommendations: A Strategic Roadmap to Excellence
 
-### Immediate (0–30 Days)
-**Delta_Logistics Ultimatum**
-- Raise compliance to 85%
-- Reduce defect rate < 5%
-- Submit corrective plan
+### Immediate Crisis Response (0-30 Days)
+**The Delta_Logistics Ultimatum:** Our data demands immediate action on Delta_Logistics. With 60.82% compliance, 10.87% defective rate, and 2.80/5.00 rating while handling 190,552 units (24.5% of total volume), this supplier represents an unacceptable risk concentration.
+- **Recommended Action:** Issue 30-day performance improvement ultimatum with specific targets:
+  - Increase compliance to minimum 85% within 30 days
+  - Reduce defective rate to below 5% immediately
+  - Provide detailed corrective action plan with daily progress reporting
+  
+**The Beta_Supplies Quality Initiative:** With 8.27% defective rate and 75.64% compliance, Beta_Supplies requires immediate quality intervention:
+- **Recommended Action:** Issue 30-day performance impovement plan with regular performance reviews:
+  - Deploy quality engineers for on-site assessment
+  - Implement enhanced incoming inspection protocols
+  - Establish weekly quality review meetings
+    
+**Financial Impact**: Immediate quality improvements could save $580K annually by reducing defect-related costs from 5.78% to target 3.00%.
 
-**Beta_Supplies Quality Fix**
-- On-site quality audit
-- Incoming inspection protocols
 
-### Mid-Term (30–180 Days)
-- **ML Integration**: Risk scoring dashboard + alerts
-- **Top Supplier Leverage**: Expand Epsilon/Alpha relationships
-- **Category Strategy**:
-  - Electronics → Expand
-  - Office Supplies → Renegotiate
-  - MRO → Leverage volume
+### Short-Term Technology Deployment Phase (30-90 Days)
+**Machine Learning System Implementation:** Deploy our 88.70% accurate Gradient Boosting model for real-time purchase order risk assessment:
+
+**Implementation Strategy:**
+- Integrate model into existing procurement system workflow
+- Create risk scoring dashboard for procurement managers
+- Establish automated alerts for high-risk orders (>70% failure probability)
+- Train procurement team on model interpretation and intervention strategies
+
 
 ### Long-Term (180+ Days)
 - Predict price volatility, quality failures, and supplier risk
