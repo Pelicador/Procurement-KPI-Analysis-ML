@@ -128,17 +128,14 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 ## 6. Insights: What the Data Tells Us
 
 ### Procurement Efficiency: The Cost Savings Success Story
-Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value. However, with an average compliance rate of 82.37%, defective rate of 5.78% and the delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
+Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value. However, with an average compliance rate of 82.37%, defective rate of 5.78% and delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
 
 ![Total Procurement Spend](/docs/Total_Procurement.png)
 ![Other KPI](/docs/Other_KPI_Cards.png)
 
+Category-Specific Success Patterns shows that negotiated procurement efforts led to savings across all categories. The most significant reductions occurred in MRO (from $11.0M to $10.1M) and Office Supplies (from $10.9M to $10.0M), highlighting effective cost control in high-spend areas.
 
-- **Total Savings**: $3.9M (7.97%)
-- **By Category**:
-  - Electronics: 12.2% ($9.8M → $8.6M)
-  - MRO: 8.2% ($11.6M → $10.7M)
-  - Office Supplies: 2.9% ($10.3M → $10.0M)
+![Procurement Category](/docs/Procurement_Spend_Category.png)
 
 ### Risk & Opportunity
 - **High-Risk**: Electronics & Raw Materials (compliance, quality)
