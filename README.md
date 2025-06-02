@@ -20,7 +20,7 @@ Our findings demand immediate action on supplier performance management, quality
 ## 2. Project Background
 
 ### The Business Problem
-Our company and procurement organization began experiencing troubling patterns. Quality complaints increased quarter-over-quarter, delivery delays frustrated internal customers, and cost pressures mounted as market conditions deteriorated. Leadership demanded answers: 
+Our company and procurement organization has been experiencing troubling patterns. Quality complaints increased quarter-over-quarter, delivery delays frustrated internal customers, and cost pressures mounted as market conditions deteriorated. Leadership demanded answers: 
 - Are we working with the right suppliers?
 - Can we predict/prevent these issues?
 - Where are our biggest improvement opportunities?
