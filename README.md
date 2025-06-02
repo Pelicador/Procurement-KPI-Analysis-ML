@@ -133,23 +133,16 @@ Our procurement team demonstrated remarkable negotiation skills, reducing total 
 ![Total Procurement Spend](/docs/Total_Procurement.png)
 ![Other KPI](/docs/Other_KPI_Cards.png)
 
-Category-Specific Success Patterns shows that negotiated procurement efforts led to savings across all categories. The most significant reductions occurred in MRO (from $11.0M to $10.1M) and Office Supplies (from $10.9M to $10.0M), highlighting effective cost control in high-spend areas.
+Category-specific success patterns shows that negotiated procurement efforts led to savings across all categories. The most significant reductions occurred in MRO (from $11.0M to $10.1M) and Office Supplies (from $10.9M to $10.0M), highlighting effective cost control in high-spend areas.
+
+![Order Status](/docs/Order_Status_Supplier.png)
+
+Order fulfillment performance across five suppliers. Alpha_Inc has the highest delivery rate at 75.89%, while most suppliers (Delta_Logistics, Epsilon_Group, Beta_Supplies, and Gamma_Co) have delivered around 70-72% of their orders. Cancellation rates are relatively low across all suppliers (under 10%), with pending orders ranging from about 10-12% for most suppliers.
 
 ![Procurement Category](/docs/Procurement_Spend_Category.png)
-
-### Risk & Opportunity
-- **High-Risk**: Electronics & Raw Materials (compliance, quality)
-- **High-Spend**: MRO = $11.6M (biggest risk if supplier fails)
-
 ### Supplier Performance Summary
 
-| Supplier         | Compliance | Defect Rate | Delivery % | Rating |
-|------------------|------------|--------------|-------------|--------|
-| Epsilon_Group    | 98.19%     | 2.61%         | 72.29%      | 4.40   |
-| Alpha_Inc        | 93.62%     | 1.89%         | 75.89%      | 4.20   |
-| Gamma_Co         | 86.01%     | ~            | 72.03%      | ~      |
-| Beta_Supplies    | 75.64%     | 8.27%         | 70.51%      | ~      |
-| Delta_Logistics  | 60.82%     | 10.87%        | 70.18%      | 2.80   |
+
 
 ---
 
