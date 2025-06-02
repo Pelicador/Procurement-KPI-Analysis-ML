@@ -132,7 +132,8 @@ Our procurement team demonstrated remarkable negotiation skills, reducing total 
 
 ![Total Procurement Spend](/docs/Total_Prourement_Spend.png)
 
-With an average compliance rate of 82.37%, defective rate of 5.78% and the delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency. 
+With an average compliance rate of 82.37%, defective rate of 5.78% and the delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
+
 ![Other KPI](/docs/Other_KPI_Cards.png)
 
 
