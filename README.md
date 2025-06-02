@@ -303,7 +303,7 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 ## Risk Mitigation Framework: Protecting Our Supply Chain Future
 
 **Tier 1 Controls - Preventive Measures**
-- Supplier diversification requirements (maximum 25% concentration)
+- Supplier diversification requirements (maximum 20% concentration)
 - Automated quality monitoring systems with real-time alerts
 - ML-based purchase order risk scoring before approval
 - Quarterly supplier business reviews with performance scorecards
