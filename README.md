@@ -5,9 +5,9 @@
 
 1. [Executive Summary](#executive-summary)
    - [The Challenge](#the-challenge-that-brought-us-here)
-   - [The Investigation](#the-investigation:-what-we-discovered)
-   - [The Transformation](#the-transformation:-machine-learning-meets-procurement)
-   - [The Path Forward](#the-path-forwad:-strategic-reccomendations)
+   - [The Investigation](#the-investigation-what-we-discovered)
+   - [The Transformation](#the-transformation-machine-learning-meets-procurement)
+   - [The Path Forward](#the-path-forwad-strategic-reccomendations)
 2. [Project Background](#project-background)
    - [The Business Problem](#the-business-problem:-why-this-analysis-is-important)
    - [The Objective](#the-objective-a-comprehensive-diagnotic-approach)
