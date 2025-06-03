@@ -41,7 +41,7 @@
    - [Long-Term Strategic Transformation (12+ Months)](#long-term-stategic-tansformation)
 9. [Financial Impact Projections](#finacial-impact-projections-the-business-case-for-change)
    - [Year 1 Financial Benefits](#year-1-financial-benefits)
-   - [Multi-Year Projection (3-Year Outlook))](multi-year-projection-3-year-outlook)   
+   - [Multi-Year Projection (3-Year Outlook))](#multi-year-projection-3-year-outlook)   
   
 
 
