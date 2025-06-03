@@ -3,7 +3,7 @@
 
 ## **Table of Contents**
 
-1. [Executive Summary](#executive-summary)
+1. [Executive Summary](#1-executive-summary)
    - [The Challenge](#the-challenge-that-brought-us-here)
    - [The Investigation](#the-investigation-what-we-discovered)
    - [The Transformation](#the-transformation-machine-learning-meets-procurement)
