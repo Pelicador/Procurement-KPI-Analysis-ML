@@ -43,7 +43,7 @@
 9. [Financial Impact Projections](#9-finacial-impact-projections-the-business-case-for-change)
    - [Year 1 Financial Benefits](#year-1-financial-benefits)
    - [Multi-Year Projection (3-Year Outlook)](#multi-year-projection-3-year-outlook)
-10. [Risk Mitigation Framewok](#10-risk-mitigation-framewok-protecting-our-supply-chain-future)
+10. [Risk Mitigation Framewok](#10-risk-mitigation-framework-protecting-our-supply-chain-future)
    - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
    - [Tier 2 Controls - Detective Measures](#tier-2-controls-detective-measures)
    - [Tier 3 Controls - Corrective Measures](#tier-3-controls-corrective-measures)
