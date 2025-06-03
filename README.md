@@ -1,6 +1,20 @@
 # Procurement KPI Analysis Project Report
 #### A Data-Driven Journey to Procurement Excelence
 
+## **Table of Contents**
+
+1. [Executive Summary](#executive-summary)
+   - [The Challenge](#the-challenge-that-brought-us-here)
+   - [Silver Layer Implementation](#silver-layer-implementation)
+   - [Gold Layer Implementation](#gold-layer-implementation)
+3. [Project Background](#project-background)
+4. [Data Structure and Initial Checks](#data-structure-and-initial-checks)
+   - [Dataset Overview](#bronze-layer-implementation)
+   - [Silver Layer Implementation](#silver-layer-implementation)
+   - [Gold Layer Implementation](#gold-layer-implementation)
+5. [Data Quality Checks](#data-quality-checks)
+6. [Repository Structure](#repository-structure)
+
 ## 1. Executive Summary
 
 ### The Challenge That Brought Us Here
