@@ -27,8 +27,12 @@
    - [External Factors Beyond Our Model](#external-factors-beyond-our-model)
 6. [Procurement Insights](#procurement-insights-what-the-data-tell-us)
    - [Key Performance Indicators](#key-performance-indicators)
-   - [Supplier Performance](#supplier-performance)
-   - [Supplier Ratings](#supplier-ratings)
+   - [Supplier Performance Analysis](#supplier-performance)
+   - [Supplier Performance Ratings](#supplier-performance-ratings)
+7. [Machine Learning](#machine-learning-predicting-procurement-success)
+   - [The Predictive Analytics Challenge](#the-predictive-analytics-challenge)
+   - [Model Development Journey](#model-development-journey)
+   - [Pedictive Model Business Impact](#predictive-model-business-impact)
 
 ## 1. Executive Summary
 
