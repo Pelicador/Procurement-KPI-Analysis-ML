@@ -29,7 +29,7 @@
    - [Key Performance Indicators](#key-performance-indicators)
    - [Supplier Performance Analysis](#supplier-performance-analysis)
    - [Supplier Performance Ratings](#supplier-performance-ratings)
-7. [Machine Learning](#7-machine-learning-predicting-procurement-success)
+7. [Machine Learning](#7-machine-learning-predicting-delivery-success)
    - [The Predictive Analytics Challenge](#the-predictive-analytics-challenge)
    - [Model Development Journey](#model-development-journey)
    - [Pedictive Model Business Impact](#predictive-model-business-impact)
