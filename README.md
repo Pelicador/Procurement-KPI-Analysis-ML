@@ -379,6 +379,8 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 - Emergency sourcing protocols for critical categories
 - Contract termination procedures with business continuity planning
 
+![Risk Mitigation](/docs/Risk_Mitigation.png)
+
 ---
 
 ## Conclusion: Transforming Procurement Through Data-Driven Excellence
