@@ -27,7 +27,7 @@
    - [External Factors Beyond Our Model](#external-factors-beyond-our-model)
 6. [Procurement Insights](#6-procurement-insights-what-the-data-tells-us)
    - [Key Performance Indicators](#key-performance-indicators)
-   - [Supplier Performance Analysis](#supplier-performance)
+   - [Supplier Performance Analysis](#supplier-performance-analysis)
    - [Supplier Performance Ratings](#supplier-performance-ratings)
 7. [Machine Learning](#7-machine-learning-predicting-procurement-success)
    - [The Predictive Analytics Challenge](#the-predictive-analytics-challenge)
