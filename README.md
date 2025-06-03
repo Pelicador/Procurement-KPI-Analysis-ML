@@ -5,13 +5,18 @@
 
 1. [Executive Summary](#executive-summary)
    - [The Challenge](#the-challenge-that-brought-us-here)
-   - [Silver Layer Implementation](#silver-layer-implementation)
-   - [Gold Layer Implementation](#gold-layer-implementation)
-3. [Project Background](#project-background)
+   - [The Investigation](#the-investigation:-what-we-discovered)
+   - [The Transformation](#the-transformation:-machine-learning-meets-procurement)
+   - [The Path Forward](#the-path-forwad:-strategic-reccomendations)
+2. [Project Background](#project-background)
+   - [The Business Problem](#the-business-problem:-why-this-analysis-is-important)
+   - [The Objective](#the-objective-a-comprehensive-diagnotic-approach)
+   - [The Stakeholders](#the-stakeholders:-who-needed-answers)
+   - [The Business Context](#the-business-context:-the-scale-of-our-challenge)
 4. [Data Structure and Initial Checks](#data-structure-and-initial-checks)
-   - [Dataset Overview](#bronze-layer-implementation)
-   - [Silver Layer Implementation](#silver-layer-implementation)
-   - [Gold Layer Implementation](#gold-layer-implementation)
+   - [Dataset Overview](#dataset-overview:-the-foundation-of-our-investigation)
+   - [Data Investigation](#data-investigation:-what-we-found)
+   - [Feature Engineering](#feature-engineering:-creating-business-inteligence)
 5. [Data Quality Checks](#data-quality-checks)
 6. [Repository Structure](#repository-structure)
 
@@ -33,24 +38,24 @@ Our findings demand immediate action on supplier performance management, quality
 
 ## 2. Project Background
 
-### The Business Problem
+### The Business Problem: Why This Analysis is Important
 Our company and procurement organization has been experiencing troubling patterns. Quality complaints increased quarter-over-quarter, delivery delays frustrated internal customers, and cost pressures mounted as market conditions deteriorated. Leadership demanded answers: 
 - Are we working with the right suppliers?
 - Can we predict/prevent these issues?
 - Where are our biggest improvement opportunities?
 
-### The Objective
+### The Objective: A Comprehensive Diagnostic Approach
 - **Primary Goal**: Perform an in-depth Exploratory Data Analysis focusing on key procurement KPIs: Cost Savings, Supplier Performance (Delivery time, Defect Rates, Compliance), Item Category Trends, and Order Status insights.
 - **Secondary Goal**: Engineer relevant features and KPIs from raw operational data to uncover hidden patterns and relationships.
 - **Advanced Goal**: Develop a high-accuracy machine learning model to predict delivery occurrence and critically evaluate performance drivers.
 
-### Stakeholders
+### The Stakeholders: Who Needed Answers
 - **Procurement Managers**: Needed supplier performance insights and contract negotiation leverage
 - **Finance Team**: Required cost optimization opportunities and budget variance explanations
 - **Operations**: Demanded delivery reliability improvements and quality assurance
 - **Executive Leadership**: Sought strategic supplier relationship guidance and risk mitigation strategies
 
-### Business Context
+### The Business Context: The Scale of Our Challenge
 - **Volume**: 777 purchase orders representing $49.3M in original value
 - **Suppliers**: 5 primary suppliers with dramatically different performance profiles
 - **Categories**: Electronics, Raw Materials, MRO, Office Supplies, and Packaging
@@ -78,7 +83,7 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 | Compliance         | Boolean     | Adherence to procurement policies (Yes/No)                                 |
 
 
-### Initial Data Investigations
+### Data Investigations: What We Found
 - **Missing Data Patterns**:
   - **87 missing Delivery_Date values**: Indicated pending/cancelled orders requiring special handling
   - **136 missing Defective_Units records**: Suggested unresolved quality cases, treated as zero defects for initial analysis
