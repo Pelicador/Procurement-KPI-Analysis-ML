@@ -7,7 +7,7 @@
    - [The Challenge](#the-challenge-that-brought-us-here)
    - [The Investigation](#the-investigation-what-we-discovered)
    - [The Transformation](#the-transformation-machine-learning-meets-procurement)
-   - [The Path Forward](#the-path-forward-strategic-reccomendations)
+   - [The Path Forward](#the-path-forward-strategic-reccommendations)
 2. [Project Background](#project-background)
    - [The Business Problem](#the-business-problem-why-this-analysis-is-important)
    - [The Objective](#the-objective-a-comprehensive-diagnotic-approach)
@@ -18,7 +18,17 @@
    - [Data Investigation](#data-investigation-what-we-found)
    - [Feature Engineering](#feature-engineering-creating-business-inteligence)
 4. [Key Questions for Stakeholders](#key-questions-for-stakeholders-prior-to-project-advancement)
-5. [Repository Structure](#repository-structure)
+   - [Performance Standards Definition](#performance-standards-definition)
+   - [Supplier Relationship Strategy](#supplier-relationship-strategy)
+   - [Category Management Approach](#category-management-approach)
+   - [Investment Priorities](#investment-priorities)
+5. [Assumptions and Caveats](#repository-structure)
+   - [Analytical Framework Assumptions](#analytical-framework-assumptions)
+   - [External Factors Beyond Our Model](#external-factors-beyond-our-model)
+6. [Procurement Insights](#procurement-insights-what-the-data-tell-us)
+   - [Key Performance Indicators](#key-performance-indicators)
+   - [Supplier Performance](#supplier-performance)
+   - [Supplier Ratings](#supplier-ratings)
 
 ## 1. Executive Summary
 
@@ -125,7 +135,7 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 - Should negotiation differ by category and how?
 - How do we balance volume vs. performance standards across categories?
 
-### Investment
+### Investment Priorities
 - Should we prioritize short-term cost savings or long-term supplier relationship improvements?
 - What budget is available for process improvement? Potential to implement ML model?
 
@@ -144,9 +154,9 @@ Our analysis centered on a comprehensive dataset capturing real-world procuremen
 
 ---
 
-## 6. Insights: What the Data Tells Us
+## 6. Procurement Insights: What the Data Tells Us
 
-### Procurement Key Performance Indicators
+### Key Performance Indicators
 Our procurement team demonstrated remarkable negotiation skills, reducing total spend from $49.3M to $45.4M. This $3.9M achievement (7.97% average savings) tells a story of skilled procurement professionals maximizing organizational value. However, with an average compliance rate of 82.37%, defective rate of 5.78% and delivery time of 10.80 days, the other KPIs indicate a need to improve operational efficiency.
 
 ![Total Procurement Spend](/docs/Total_Procurement.png)
