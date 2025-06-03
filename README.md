@@ -39,10 +39,23 @@
    - [Strategic Partnership Optimization (90-180 Days)](#predictive-model-business-impact)
    - [Advanced Analytics Evolution (180-365 Days)](#advanced-analytics-evolotion)
    - [Long-Term Strategic Transformation (12+ Months)](#long-term-stategic-tansformation)
+   - [Reccomendations Summary](#reccomendations-summary)
 9. [Financial Impact Projections](#finacial-impact-projections-the-business-case-for-change)
    - [Year 1 Financial Benefits](#year-1-financial-benefits)
-   - [Multi-Year Projection (3-Year Outlook))](#multi-year-projection-3-year-outlook)   
-  
+   - [Multi-Year Projection (3-Year Outlook)](#multi-year-projection-3-year-outlook)
+10. [Risk Mitigation Framewok](#risk-mitigation-framewok-protecting-our-supply-chain-future)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 2 Controls - Detective Measures](#tier-2-controls-detective-measures)
+   - [Tier 3 Controls - corrective Measures](#tier-3-controls-corrective-measures)
+11. [Conclusion](#conclusion-transforming-procurement-through-data-driven-excellence)      
+   - [The Journey We've Completed](#the-journey-we've-completeds)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
+   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)  
 
 
 ## 1. Executive Summary
@@ -305,6 +318,8 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 - Monthly supplier performance reviews using ML insights
 - Quarterly strategic sourcing optimization analyses
 - Annual supplier relationship strategic planning sessions
+
+### Reccomendations Summary
 
 ![Strategic Roadmap](/docs/Strategic_Roadmap.png)
 
