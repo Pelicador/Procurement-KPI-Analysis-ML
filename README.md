@@ -325,7 +325,7 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 
 ---
 
-## Financial Impact Projections: The Business Case for Change
+## 9. Financial Impact Projections: The Business Case for Change
 
 ### Year 1 Financial Benefits
 **Quality Cost Reduction: $580K**
@@ -359,7 +359,7 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 
 ---
 
-## Risk Mitigation Framework: Protecting Our Supply Chain Future
+## 10. Risk Mitigation Framework: Protecting Our Supply Chain Future
 
 ### Tier 1 Controls - Preventive Measures
 - Supplier diversification requirements (maximum 20% concentration)
