@@ -10,7 +10,7 @@
    - [The Path Forward](#the-path-forward-strategic-recommendations)
 2. [Project Background](#2-project-background)
    - [The Business Problem](#the-business-problem-why-this-analysis-is-important)
-   - [The Objective](#the-objective-a-comprehensive-diagnotic-approach)
+   - [The Objective](#the-objective-a-comprehensive-diagnostic-approach)
    - [The Stakeholders](#the-stakeholders-who-needed-answers)
    - [The Business Context](#the-business-context-the-scale-of-our-challenge)
 3. [Data Structure and Initial Checks](#3-data-structure-and-initial-checks)
