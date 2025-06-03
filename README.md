@@ -17,8 +17,8 @@
    - [Dataset Overview](#dataset-overview-the-foundation-of-our-investigation)
    - [Data Investigation](#data-investigation-what-we-found)
    - [Feature Engineering](#feature-engineering-creating-business-inteligence)
-4. [Key Questions for Stakeholders](#Key-Questions-for-Stakeholders-Prior-to-Project-Advancement)
-6. [Repository Structure](#repository-structure)
+4. [Key Questions for Stakeholders](#key-questions-for-stakeholders-prior-to-project-advancement)
+5. [Repository Structure](#repository-structure)
 
 ## 1. Executive Summary
 
