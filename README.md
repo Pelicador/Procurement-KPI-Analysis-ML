@@ -48,14 +48,14 @@
    - [Tier 2 Controls - Detective Measures](#tier-2-controls-detective-measures)
    - [Tier 3 Controls - corrective Measures](#tier-3-controls-corrective-measures)
 11. [Conclusion](#conclusion-transforming-procurement-through-data-driven-excellence)      
-   - [The Journey We've Completed](#the-journey-we've-completeds)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)
-   - [Tier 1 Controls - Preventive Measures](#tier-1-controls-preventive-measures)  
+   - [The Journey We've Completed](#the-journey-we-ve-completeds)
+   - [The Crisis Hidden in Success](#the-crisis-hidden-in-success)
+   - [The Technology Breakthrough](#the-technology-breakthrough)
+   - [The Strategic Imperative](#the-strategic-imperative)
+   - [The Financial Opportunity](#the-financial-opportunity)
+   - [The Path Forward](#the-path-forward)
+   - [The Transformation Promise](#the-transformation-promise)
+   - [The Call to Action](#the-call-to-action)  
 
 
 ## 1. Executive Summary
