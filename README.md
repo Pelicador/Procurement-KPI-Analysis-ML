@@ -361,19 +361,19 @@ Traditional procurement operates reactively—addressing delivery failures, qual
 
 ## Risk Mitigation Framework: Protecting Our Supply Chain Future
 
-**Tier 1 Controls - Preventive Measures**
+### Tier 1 Controls - Preventive Measures
 - Supplier diversification requirements (maximum 20% concentration)
 - Automated quality monitoring systems with real-time alerts
 - ML-based purchase order risk scoring before approval
 - Quarterly supplier business reviews with performance scorecards
   
-**Tier 2 Controls - Detective Measures**
+### Tier 2 Controls - Detective Measures
 - Monthly compliance auditing with exception reporting
 - Quality trend analysis with predictive failure identification
 - Delivery performance monitoring with customer impact assessment
 - Financial health monitoring of critical suppliers
   
-**Tier 3 Controls - Corrective Measures**
+### Tier 3 Controls - Corrective Measures
 - Supplier performance improvement plan templates
 - Alternative supplier qualification and onboarding processes
 - Emergency sourcing protocols for critical categories
