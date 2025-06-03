@@ -22,7 +22,7 @@
    - [Supplier Relationship Strategy](#supplier-relationship-strategy)
    - [Category Management Approach](#category-management-approach)
    - [Investment Priorities](#investment-priorities)
-5. [Assumptions and Caveats](#5-repository-structure)
+5. [Assumptions and Caveats](#5-assumptions-and-caveats)
    - [Analytical Framework Assumptions](#analytical-framework-assumptions)
    - [External Factors Beyond Our Model](#external-factors-beyond-our-model)
 6. [Procurement Insights](#6-procurement-insights-what-the-data-tell-us)
