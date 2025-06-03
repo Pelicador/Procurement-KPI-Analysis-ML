@@ -25,7 +25,7 @@
 5. [Assumptions and Caveats](#5-assumptions-and-caveats)
    - [Analytical Framework Assumptions](#analytical-framework-assumptions)
    - [External Factors Beyond Our Model](#external-factors-beyond-our-model)
-6. [Procurement Insights](#6-procurement-insights-what-the-data-tell-us)
+6. [Procurement Insights](#6-procurement-insights-what-the-data-tells-us)
    - [Key Performance Indicators](#key-performance-indicators)
    - [Supplier Performance Analysis](#supplier-performance)
    - [Supplier Performance Ratings](#supplier-performance-ratings)
