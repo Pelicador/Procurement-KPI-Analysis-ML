@@ -47,7 +47,7 @@
    - [Tier 1 Controls - Preventive Measures](#tier-1-controls---preventive-measures)
    - [Tier 2 Controls - Detective Measures](#tier-2-controls---detective-measures)
    - [Tier 3 Controls - Corrective Measures](#tier-3-controls---corrective-measures)
-12. [Conclusion](#11-conclusion-transforming-procurement-through-data-driven-excellence)      
+11. [Conclusion](#11-conclusion-transforming-procurement-through-data-driven-excellence)      
    - [The Journey We've Completed](#the-journey-we-ve-completeds)
    - [The Crisis Hidden in Success](#the-crisis-hidden-in-success)
    - [The Technology Breakthrough](#the-technology-breakthrough)
