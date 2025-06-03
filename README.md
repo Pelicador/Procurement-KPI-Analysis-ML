@@ -33,6 +33,12 @@
    - [The Predictive Analytics Challenge](#the-predictive-analytics-challenge)
    - [Model Development Journey](#model-development-journey)
    - [Pedictive Model Business Impact](#predictive-model-business-impact)
+8. [Reccomendations](#recommendations-a-strategic-roadmap-to-excellence)
+   - [Immediate Crisis Response (0-30 Days)](#immediate-crisis-response)
+   - [Model Development Journey](#model-development-journey)
+   - [Pedictive Model Business Impact](#predictive-model-business-impact)
+  
+
 
 ## 1. Executive Summary
 
