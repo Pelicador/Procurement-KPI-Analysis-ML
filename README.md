@@ -14,7 +14,7 @@
    - [The Stakeholders](#the-stakeholders-who-needed-answers)
    - [The Business Context](#the-business-context-the-scale-of-our-challenge)
 3. [Data Structure and Initial Checks](#3-data-structure-and-initial-checks)
-   - [Dataset Overview](#dataset-overview-the-foundation-of-our-investigation)
+   - [Dataset Overview](#dataset-overview)
    - [Data Investigation](#data-investigation-what-we-found)
    - [Feature Engineering](#feature-engineering-creating-business-inteligence)
 4. [Key Questions for Stakeholders](#4-key-questions-for-stakeholders-prior-to-project-advancement)
